@@ -2,9 +2,8 @@ import argparse
 from collections import Counter
 import csv
 from datetime import datetime
-import io
 import logging
-from os import path, getenv
+from os import path
 
 from google.cloud import speech, storage, translate_v2 as translate
 from moviepy.editor import AudioFileClip
