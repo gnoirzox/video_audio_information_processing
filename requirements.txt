@@ -1,0 +1,7 @@
+google
+google-cloud-translate
+google-cloud-transcript
+
+moviepy
+nltk
+pydub
