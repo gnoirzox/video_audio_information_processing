@@ -1,6 +1,7 @@
 google
+google-cloud-language
+google-cloud-storage
 google-cloud-translate
-google-cloud-transcript
 
 moviepy
 nltk
